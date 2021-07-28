@@ -38,6 +38,9 @@
 🕵️ **소스코드 - 깃허브** [wesm/pydata-book](https://github.com/wesm/pydata-book)<br>
 🕵️ **소스코드 - 코랩** [Google Colaboratory](https://colab.research.google.com/github/wesm/pydata-book/blob/2nd-edition/ch02.ipynb)<br>
 🕵️ 깃허브 [github](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji)<br>
+🕵️ datasets [google drive](https://drive.google.com/drive/folders/1EbOJ3RmcbdXSja8ossAuQDMV2NBLPMKK?usp=sharing)<br>
+🕵️ examples [google drive](https://drive.google.com/drive/folders/1ifJnZ6p6_fc8nNOYU1byCYNTrWo6qO93?usp=sharing)
+
 
 
 <br>
@@ -57,10 +60,10 @@
 | 07월 19일 | 4.1 NumPy ndarray: 다차원 배열 객체                      | 135~157 | 정수희 | [🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch04/4.1%20NumPy%20ndarray%20%EB%8B%A4%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4%20%EA%B0%9D%EC%B2%B4.ipynb) |
 | 07월 20일 | 4.2 유니버설 함수: 배열의 각 원소를 빠르게 처리하는 함수 | 158~161 | 김인유 | [🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch04/4.2%20%EC%9C%A0%EB%8B%88%EB%B2%84%EC%84%A4%20%ED%95%A8%EC%88%98:%20%EB%B0%B0%EC%97%B4%EC%9D%98%20%EA%B0%81%20%EC%9B%90%EC%86%8C%EB%A5%BC%20%EB%B9%A0%EB%A5%B4%EA%B2%8C%20%EC%B2%98%EB%A6%AC%ED%95%98%EB%8A%94%20%ED%95%A8%EC%88%98.ipynb) |
 | 07월 20일 | 4.3 배열을 이용한 배열지향 프로그래밍                    | 161~171 | 김인유 | [🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch04/4.3%20%EB%B0%B0%EC%97%B4%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EB%B0%B0%EC%97%B4%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.ipynb) |
-| 07월 21일 | 4.4 배열 데이터의 파일 입출력                            | 171~171 |        | [🔗]() |
-| 07월 21일 | 4.5 선형대수                                             | 172~174 |        | [🔗]() |
-| 07월 21일 | 4.6 난수 생성                                            | 174~176 |        | [🔗]() |
-| 07월 21일 | 4.7 계단 오르내리기 예제                                 | 176~180 |        | [🔗]() |
+| 07월 21일 | 4.4 배열 데이터의 파일 입출력                            | 171~171 | 김영협 | [🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch04/4.4%20%EB%B0%B0%EC%97%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98%20%ED%8C%8C%EC%9D%BC%20%EC%9E%85%EC%B6%9C%EB%A0%A5.ipynb) |
+| 07월 21일 | 4.5 선형대수                                             | 172~174 | 김영협 | [🔗]([🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch04/4.4%20%EB%B0%B0%EC%97%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98%20%ED%8C%8C%EC%9D%BC%20%EC%9E%85%EC%B6%9C%EB%A0%A5.ipynb)) |
+| 07월 21일 | 4.6 난수 생성                                            | 174~176 | 김영협 | [🔗]([🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch04/4.4%20%EB%B0%B0%EC%97%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98%20%ED%8C%8C%EC%9D%BC%20%EC%9E%85%EC%B6%9C%EB%A0%A5.ipynb)) |
+| 07월 21일 | 4.7 계단 오르내리기 예제                                 | 176~180 | 김영협 | [🔗]([🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch04/4.4%20%EB%B0%B0%EC%97%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98%20%ED%8C%8C%EC%9D%BC%20%EC%9E%85%EC%B6%9C%EB%A0%A5.ipynb)) |
 
 </div>
 </details>
