@@ -147,8 +147,8 @@
 |:----:|:------------------------ |:------:|:------:|:------:|
 | 08월 17일 | 10.1 GroupBy 메카닉    | 385~396 |  박기민  | [🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch10/10.1%20GroupBy%20%EB%A9%94%EC%B9%B4%EB%8B%89-10.2%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A7%91%EA%B3%84.ipynb) |
 | 08월 17일 | 10.2 데이터 집계   | 396~403 | 박기민 | [🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch10/10.1%20GroupBy%20%EB%A9%94%EC%B9%B4%EB%8B%89-10.2%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A7%91%EA%B3%84.ipynb) |
-| 08월 18일 | 10.3 Apply: 일반적인 분리-적용-병합     | 403~417 |  안형준 | [🔗]() |
-| 08월 18일 | 10.4 피벗테이블과 교차일람표     | 418~422 |  안형준 | [🔗]() |
+| 08월 18일 | 10.3 Apply: 일반적인 분리-적용-병합     | 403~417 |  안형준 | [🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch10/10.3%20Apply-%2010.4%20%ED%94%BC%EB%B2%97%20%ED%85%8C%EC%9D%B4%EB%B8%94%EA%B3%BC%20%EA%B5%90%EC%B0%A8%EC%9D%BC%EB%9E%8C%ED%91%9C.ipynb) |
+| 08월 18일 | 10.4 피벗테이블과 교차일람표     | 418~422 |  안형준 | [🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch10/10.3%20Apply-%2010.4%20%ED%94%BC%EB%B2%97%20%ED%85%8C%EC%9D%B4%EB%B8%94%EA%B3%BC%20%EA%B5%90%EC%B0%A8%EC%9D%BC%EB%9E%8C%ED%91%9C.ipynb) |
 
 </div>
 </details>
