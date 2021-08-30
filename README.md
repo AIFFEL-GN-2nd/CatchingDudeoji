@@ -11,7 +11,7 @@
 ⏲ **시간** 매일 오후 8시<br>
 📆 **날짜** 7월 19일(월)부터 책을 끝내는 날까지!<br>
 🙋 **스터디원 모집기간** 7월 15일~7월 16일(스터디 시작 이후로는 상시모집)<br>
-👾 **노션 페이지** https://www.notion.so/8b0734caa7a34f0687ff05f40e1d0c39<br>
+👾 **노션 페이지** https://sunrise-octagon-91e.notion.site/8b0734caa7a34f0687ff05f40e1d0c39<br>
 
 파이썬 라이브러리를 활용한 데이터 분석 책의 CHAPTER4부터 부록까지의 내용을 함께 공부하는 스터디입니다. Numpy/Pandas/Matplotlib의 용법을 정리하고 이를 활용하여 기본적인 데이터 분석법을 공부하시고 싶은 분들과 함께 하고 싶습니다.
 
@@ -58,12 +58,12 @@
 | 날짜 | 챕터                      | 페이지 | 발표자 | 발표자료 |
 |:----:|:------------------------ |:------:|:------:|:------:|
 | 07월 19일 | 4.1 NumPy ndarray: 다차원 배열 객체                      | 135~157 | 정수희 | [🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch04/4.1%20NumPy%20ndarray%20%EB%8B%A4%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4%20%EA%B0%9D%EC%B2%B4.ipynb) |
-| 07월 20일 | 4.2 유니버설 함수: 배열의 각 원소를 빠르게 처리하는 함수 | 158~161 | 김인유 | [🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch04/4.2%20%EC%9C%A0%EB%8B%88%EB%B2%84%EC%84%A4%20%ED%95%A8%EC%88%98:%20%EB%B0%B0%EC%97%B4%EC%9D%98%20%EA%B0%81%20%EC%9B%90%EC%86%8C%EB%A5%BC%20%EB%B9%A0%EB%A5%B4%EA%B2%8C%20%EC%B2%98%EB%A6%AC%ED%95%98%EB%8A%94%20%ED%95%A8%EC%88%98.ipynb) |
+| 07월 20일 | 4.2 유니버설 함수: 배열의 각 원소를 빠르게 처리하는 함수 | 158~161 | 김인유 | [🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch04/4.2%20%EC%9C%A0%EB%8B%88%EB%B2%84%EC%84%A4%20%ED%95%A8%EC%88%98_%EB%B0%B0%EC%97%B4%EC%9D%98%20%EA%B0%81%20%EC%9B%90%EC%86%8C%EB%A5%BC%20%EB%B9%A0%EB%A5%B4%EA%B2%8C%20%EC%B2%98%EB%A6%AC%ED%95%98%EB%8A%94%20%ED%95%A8%EC%88%98.ipynb) |
 | 07월 20일 | 4.3 배열을 이용한 배열지향 프로그래밍                    | 161~171 | 김인유 | [🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch04/4.3%20%EB%B0%B0%EC%97%B4%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EB%B0%B0%EC%97%B4%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.ipynb) |
 | 07월 21일 | 4.4 배열 데이터의 파일 입출력                            | 171~171 | 김영협 | [🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch04/4.4%20%EB%B0%B0%EC%97%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98%20%ED%8C%8C%EC%9D%BC%20%EC%9E%85%EC%B6%9C%EB%A0%A5.ipynb) |
-| 07월 21일 | 4.5 선형대수                                             | 172~174 | 김영협 | [🔗]([🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch04/4.4%20%EB%B0%B0%EC%97%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98%20%ED%8C%8C%EC%9D%BC%20%EC%9E%85%EC%B6%9C%EB%A0%A5.ipynb)) |
-| 07월 21일 | 4.6 난수 생성                                            | 174~176 | 김영협 | [🔗]([🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch04/4.4%20%EB%B0%B0%EC%97%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98%20%ED%8C%8C%EC%9D%BC%20%EC%9E%85%EC%B6%9C%EB%A0%A5.ipynb)) |
-| 07월 21일 | 4.7 계단 오르내리기 예제                                 | 176~180 | 김영협 | [🔗]([🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch04/4.4%20%EB%B0%B0%EC%97%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98%20%ED%8C%8C%EC%9D%BC%20%EC%9E%85%EC%B6%9C%EB%A0%A5.ipynb)) |
+| 07월 21일 | 4.5 선형대수                                             | 172~174 | 김영협 | [🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch04/4.4%20%EB%B0%B0%EC%97%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98%20%ED%8C%8C%EC%9D%BC%20%EC%9E%85%EC%B6%9C%EB%A0%A5.ipynb) |
+| 07월 21일 | 4.6 난수 생성                                            | 174~176 | 김영협 | [🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch04/4.4%20%EB%B0%B0%EC%97%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98%20%ED%8C%8C%EC%9D%BC%20%EC%9E%85%EC%B6%9C%EB%A0%A5.ipynb) |
+| 07월 21일 | 4.7 계단 오르내리기 예제                                 | 176~180 | 김영협 | [🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch04/4.4%20%EB%B0%B0%EC%97%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98%20%ED%8C%8C%EC%9D%BC%20%EC%9E%85%EC%B6%9C%EB%A0%A5.ipynb) |
 
 </div>
 </details>
@@ -74,8 +74,8 @@
 
 | 날짜 | 챕터                      | 페이지 | 발표자 | 발표자료 |
 |:----:|:------------------------ |:------:|:------:|:------:|
-| 07월 22일 | 5.1 pandas 자료구조 소개             | 181~197 | 손진아  | [🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch05/ch05_pandas_%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.ipynb) |
-| 07월 23일 | 5.2 핵심 기능 (1)                    | 198~210 |  김은서 | [🔗]() |
+| 07월 22일 | 5.1 pandas 자료구조 소개             | 181~197 | 손진아  | [🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch05/5.1%20pandas%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%20%EC%86%8C%EA%B0%9C.ipynb) |
+| 07월 23일 | 5.2 핵심 기능 (1)                    | 198~210 |  김은서 | [🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch05/5.2%20%ED%95%B5%EC%8B%AC%EA%B8%B0%EB%8A%A5%201.ipynb) |
 | 07월 26일 | 5.2 핵심 기능 (2)                    | 210~225 | 손지우 | [🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch05/5.2%20%ED%95%B5%EC%8B%AC%EA%B8%B0%EB%8A%A5%202.ipynb) |
 | 07월 27일 | 5.3 기술 통계 계산과 요약             | 226~235 | 최병휘  | [🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch05/5.3%20%EA%B8%B0%EC%88%A0%20%ED%86%B5%EA%B3%84%20%EA%B3%84%EC%82%B0%EA%B3%BC%20%EC%9A%94%EC%95%BD.ipynb) |
 
@@ -90,9 +90,9 @@
 | 날짜 | 챕터                      | 페이지 | 발표자 | 발표자료 |
 |:----:|:------------------------ |:------:|:------:|:------:|
 | 07월 28일 | 6.1 텍스트 파일에서 데이터를 읽고 쓰는 법    | 237~257 | 강지윤 | [🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch06/6.1%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%ED%8C%8C%EC%9D%BC%EC%97%90%EC%84%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%EC%9D%BD%EA%B3%A0%20%EC%93%B0%EB%8A%94%20%EB%B2%95.ipynb) |
-| 07월 29일 | 6.2 이진 데이터 형식                       | 258~263 | 우범진 | [🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch06/6.2%20~%206.4.ipynb) |
-| 07월 29일 | 6.3 웹 API와 함께 사용하기                 | 263~264 | 우범진  | [🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch06/6.2%20~%206.4.ipynb) |
-| 07월 29일 | 6.4 데이터베이스와 함께 사용하기            | 264~267 | 우범진  | [🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch06/6.2%20~%206.4.ipynb) |
+| 07월 29일 | 6.2 이진 데이터 형식                       | 258~263 | 우범진 | [🔗]https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch06/6.2%20%EC%9D%B4%EC%A7%84%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%98%95%EC%8B%9D-6.4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%99%80%20%ED%95%A8%EA%B2%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.ipynb) |
+| 07월 29일 | 6.3 웹 API와 함께 사용하기                 | 263~264 | 우범진  | [🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch06/6.2%20%EC%9D%B4%EC%A7%84%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%98%95%EC%8B%9D-6.4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%99%80%20%ED%95%A8%EA%B2%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.ipynb) |
+| 07월 29일 | 6.4 데이터베이스와 함께 사용하기            | 264~267 | 우범진  | [🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch06/6.2%20%EC%9D%B4%EC%A7%84%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%98%95%EC%8B%9D-6.4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%99%80%20%ED%95%A8%EA%B2%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.ipynb) |
 
 </div>
 </details>
@@ -103,7 +103,7 @@
 
 | 날짜 | 챕터                      | 페이지 | 발표자 | 발표자료 |
 |:----:|:------------------------ |:------:|:------:|:------:|
-| 07월 30일 | 7.1 누락된 데이터 처리하기    | 269~276 |  이지수  | [🔗]() |
+| 07월 30일 | 7.1 누락된 데이터 처리하기    | 269~276 |  이지수  | [🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch07/7.1%20%EB%88%84%EB%9D%BD%EB%90%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0.ipynb) |
 | 08월 02일 | 7.2 데이터 변형                       | 277~295 | 정태호  | [🔗]() |
 | 08월 03일 | 7.3 문자열 다루기                 | 296~306 |  김민경  | [🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch07/7.3%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%8B%A4%EB%A3%A8%EA%B8%B0.ipynb) |
 
@@ -118,7 +118,7 @@
 | 날짜 | 챕터                      | 페이지 | 발표자 | 발표자료 |
 |:----:|:------------------------ |:------:|:------:|:------:|
 | 08월 09일 | 8.1 계층적 색인    | 307~314 |  정수희  | [🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch08/8.1%20%EA%B3%84%EC%B8%B5%EC%A0%81%20%EC%83%89%EC%9D%B8.ipynb) |
-| 08월 10일 | 8.2 데이터 합치기       | 315~334 | 전지은 | [🔗]() |
+| 08월 10일 | 8.2 데이터 합치기       | 315~334 | 전지은 | [🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch08/8.2%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%95%A9%EC%B9%98%EA%B8%B0.ipynb) |
 | 08월 11일 | 8.3 재형성과 피벗     | 334~345 |  윤세휘 | [🔗]() |
 
 </div>
@@ -132,8 +132,8 @@
 | 날짜 | 챕터                      | 페이지 | 발표자 | 발표자료 |
 |:----:|:------------------------ |:------:|:------:|:------:|
 | 08월 12일 | 9.1 matplotlib API 간략하게 살펴보기    | 347~365|  강지윤  | [🔗]() |
-| 08월 13일 | 9.2 pandas에서 seaborn으로 그래프 그리기   | 365~382 | 손진아 | [🔗]() |
-| 08월 13일 | 9.3 다른 파이썬 시각화 도구     | 382~383|  손진아 | [🔗]() |
+| 08월 13일 | 9.2 pandas에서 seaborn으로 그래프 그리기   | 365~382 | 손진아 | [🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch09/9.2%20pandas%EC%97%90%EC%84%9C%20seaborn%EC%9C%BC%EB%A1%9C%20%EA%B7%B8%EB%9E%98%ED%94%84%EA%B7%B8%EB%A6%AC%EA%B8%B0.ipynb) |
+| 08월 13일 | 9.3 다른 파이썬 시각화 도구     | 382~383|  손진아 | [🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch09/9.2%20pandas%EC%97%90%EC%84%9C%20seaborn%EC%9C%BC%EB%A1%9C%20%EA%B7%B8%EB%9E%98%ED%94%84%EA%B7%B8%EB%A6%AC%EA%B8%B0.ipynb) |
 
 </div>
 </details>
@@ -145,10 +145,10 @@
 
 | 날짜 | 챕터                      | 페이지 | 발표자 | 발표자료 |
 |:----:|:------------------------ |:------:|:------:|:------:|
-| 08월 17일 | 10.1 GroupBy 메카닉    | 385~396 |  박기민  | [🔗]() |
-| 08월 17일 | 10.2 데이터 집계   | 396~403 | 박기민 | [🔗]() |
-| 08월 18일 | 10.3 Apply: 일반적인 분리-적용-병합     | 403~417 |  안형준 | [🔗]() |
-| 08월 18일 | 10.4 피벗테이블과 교차일람표     | 418~422 |  안형준 | [🔗]() |
+| 08월 17일 | 10.1 GroupBy 메카닉    | 385~396 |  박기민  | [🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch10/10.1%20GroupBy%20%EB%A9%94%EC%B9%B4%EB%8B%89-10.2%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A7%91%EA%B3%84.ipynb) |
+| 08월 17일 | 10.2 데이터 집계   | 396~403 | 박기민 | [🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch10/10.1%20GroupBy%20%EB%A9%94%EC%B9%B4%EB%8B%89-10.2%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A7%91%EA%B3%84.ipynb) |
+| 08월 18일 | 10.3 Apply: 일반적인 분리-적용-병합     | 403~417 |  안형준 | [🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch10/10.3%20Apply-%2010.4%20%ED%94%BC%EB%B2%97%20%ED%85%8C%EC%9D%B4%EB%B8%94%EA%B3%BC%20%EA%B5%90%EC%B0%A8%EC%9D%BC%EB%9E%8C%ED%91%9C.ipynb) |
+| 08월 18일 | 10.4 피벗테이블과 교차일람표     | 418~422 |  안형준 | [🔗](https://github.com/AIFFEL-GN-2nd/CatchingDudeoji/blob/main/ch10/10.3%20Apply-%2010.4%20%ED%94%BC%EB%B2%97%20%ED%85%8C%EC%9D%B4%EB%B8%94%EA%B3%BC%20%EA%B5%90%EC%B0%A8%EC%9D%BC%EB%9E%8C%ED%91%9C.ipynb) |
 
 </div>
 </details>
